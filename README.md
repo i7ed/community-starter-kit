@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+Here is my description on 2019-11-12
 
 ## What it does
-
-FEATURES PLACEHOLDER
+- [ ] merge stuff
+- [x] new app
 
 ## Getting started
 
